@@ -1,10 +1,10 @@
-# PortfolioInterim
+# Portfolio
 ## About
 Greetings,
-Welcome to my interim programming portfolio. I'm still in the process of adding, cleaning up and organizing code files, so expect the contents of this portfolio to change from one day to the next. I ultimately intend to replace this with a proper, polished portfolio using GitHub Pages: but I expect most readers will care about the code more than the packaging, so I'm focusing on that first.
+This is my portfolio for showcasing my work--mostly programming, but also some non-programming assignments that showcase my writing, reasoning and math skills. At some point I intend to put in the time to replace this with something nicer looking, but for now I have much higher priorities, so you get a GitHub repo. 
 
 ## Attribution: 
-Everything here is chosen because it showcases my work. That said, things like projects often involve code written by multiple people, and class assignment sometimes come with pre-written code. If a significant portion of a file is not my work, I will clearly mark which portion and attempt to include an appropriate attribution. If a file is unmarked, you can safely assume it was written almost entirely by me: the only thing I might not mark is the basic skeleton or connective-tissue pieces sometimes provided for class assignments.
+Everything here is chosen because it showcases my work. Anything here that was not written by me--because it was part of a group project or boilerplate for an assignment--will be clearly marked. Anything unmarked is mine.
 
 ## Contents
 ### 1. Short Programs
@@ -24,5 +24,8 @@ This section is for short, stand-alone programs. Usually these were written as a
 **Concept** The idea of this project was to make a simulated version of an eReader (something like an Amazon Kindle). The program was to display an image of the reader including a interface screen with various navigation buttons (that changed based on the menu) and a display screen with the actual text. The intent was for the reader to be able to read from text files, and to build up a library of titles for the user to choose from. Unfortunately time constraints compelled me to leave that functionality unfinished: it has a spot in the menu, but can't actually be used. Instead there's a very small corpus of short passages that can be used to demo the display functionality. I'd eventually like to go back and finish the program to get it to where it was originally supposed to be, but it's a fairly low priority, so it may not happen for a while.
 
 **Origin** This was the other project (and the first one chronologically) that I did for the Introductory C++ class mentioned in the Space Travel Simulator section. The directions were just to make a program showcasing some sort of interactive gadget, which you would draw using ASCII art and which would change somehow as you interacted with it. I never much cared for ASCII art, so the eReader was partly an idea for how to fill the letter of the requirements (and do a greater amount of more-interesting programming) while spending as little time fiddling with the ASCII portion as possible. That notion, and the project as a whole, ended up being a bit of a miscalculation: doing the apparently-simple outline and opening-closing for the reader took quite a lot of fiddling with strings, and coding it so everything displayed correctly within the fixed size of the reader added more headaches. The ideas I had for the functionality of the reader itself proved to be well beyond what I could do in the time provided, and I ended up scrambling to get it to a state that was at least *presentable* by the deadline.
+
+### 5. Written Assignments
+Coming soon.
 
 
